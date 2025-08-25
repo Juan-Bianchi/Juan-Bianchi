@@ -1,14 +1,15 @@
+# Juan-Bianchi
 # 👋 ¡Hola! Soy Juan Bianchi
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desarrollador+Backend;Estudiante+de+UNLAM;Buenos+Aires%2C+Argentina)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desarrollador+Backend;Estudiante+de+UNLaM;Buenos+Aires%2C+Argentina)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 Sobre mí
 
-Soy un **desarrollador apasionado** ubicado en **Buenos Aires, Argentina** 🇦🇷. Actualmente estudiando en la **Universidad Nacional de La Matanza (UNLAM)**.
+Soy un **desarrollador apasionado** ubicado en **Buenos Aires, Argentina** 🇦🇷. Actualmente estudiando en la **Universidad Nacional de La Matanza (UNLaM)**.
 
 - 📚 Estudiante universitario con pasión por la **innovación tecnológica**
 - ⚡ Siempre explorando nuevas herramientas y metodologías
@@ -18,9 +19,9 @@ Soy un **desarrollador apasionado** ubicado en **Buenos Aires, Argentina** 🇦�
 <div align="center">
 
 ### 💻 Lenguajes de Programación
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🌐 Backend & Frontend
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
