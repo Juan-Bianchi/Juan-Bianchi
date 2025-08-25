@@ -96,4 +96,5 @@ const juanBianchi = {
 <!--
 ¡Gracias por visitar mi perfil! 🚀
 Siempre abierto a colaboraciones interesantes y nuevos desafíos.
+Este es un repositorio especial - su README.md aparece en mi perfil de GitHub.
 -->
